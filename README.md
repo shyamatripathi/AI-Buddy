@@ -1,4 +1,4 @@
-AI Study Buddy - Smart Learning Platform 
+## AI Study Buddy - Smart Learning Platform 
 A personalized learning platform that transforms study materials into interactive learning experiences using Generative AI. Upload your PDFs and lecture notes to get instant summaries, flashcards, and quizzes!
 
  Features
