@@ -1,22 +1,22 @@
-AI Study Buddy - Smart Learning Platform 🤖📚
+AI Study Buddy - Smart Learning Platform 
 A personalized learning platform that transforms study materials into interactive learning experiences using Generative AI. Upload your PDFs and lecture notes to get instant summaries, flashcards, and quizzes!
 
-🚀 Features
-📄 Multi-format Support: Upload PDF, TXT, and MD files
+ Features
+ Multi-format Support: Upload PDF, TXT, and MD files
 
-🤖 AI-Powered Processing: Uses Google Gemini AI for content analysis
+ AI-Powered Processing: Uses Google Gemini AI for content analysis
 
-📝 Smart Summaries: Generate concise, topic-wise summaries
+ Smart Summaries: Generate concise, topic-wise summaries
 
-🎴 Interactive Flashcards: Create flashcards for quick memory recall
+ Interactive Flashcards: Create flashcards for quick memory recall
 
-❓ Practice Quizzes: Generate multiple-choice questions for self-assessment
+ Practice Quizzes: Generate multiple-choice questions for self-assessment
 
-🎨 Beautiful UI: Clean, responsive design with Pico.css
+ Beautiful UI: Clean, responsive design with Pico.css
 
-⚡ Fast & Efficient: Real-time processing with instant results
+ Fast & Efficient: Real-time processing with instant results
 
-🛠️ Tech Stack
+ Tech Stack
 Backend
 FastAPI - Modern Python web framework
 
@@ -33,7 +33,7 @@ Pico.css - Minimal CSS framework for styling
 
 Fetch API - Backend communication
 
-📦 Installation & Setup
+Installation & Setup
 Prerequisites
 Python 3.7+
 
@@ -80,7 +80,7 @@ Backend API: http://localhost:8000
 
 API Documentation: http://localhost:8000/docs
 
-🔑 Getting Your Gemini API Key
+ Getting Your Gemini API Key
 Visit Google AI Studio
 
 Sign in with your Google account
@@ -91,7 +91,7 @@ Create a new API key
 
 Copy the key and add it to your backend/.env file
 
-🎯 How to Use
+ How to Use
 Upload Study Material
 
 Click "Choose File" and select your PDF, TXT, or MD file
@@ -114,7 +114,7 @@ Select quiz answers and check your score
 
 Switch between different content types using tabs
 
-📁 Project Structure
+ Project Structure
 text
 ai-study-buddy/
 ├── backend/
@@ -134,7 +134,7 @@ GET /health - Health check endpoint
 
 GET / - API information
 
-🎨 Customization
+ Customization
 Styling
 The app uses Pico.css by default. You can customize the appearance by:
 
@@ -186,7 +186,7 @@ Restart the backend server
 Debug Mode
 Enable detailed logging by checking the backend terminal for processing information.
 
-🌟 Future Enhancements
+ Future Enhancements
 User accounts and saved sessions
 
 Support for more file formats (DOCX, PPTX)
