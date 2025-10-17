@@ -129,7 +129,7 @@ ai-study-buddy/
 │   └── script.js           # Frontend logic and API calls
 └── README.md
 ```
-🔧 API Endpoints
+ API Endpoints
 POST /upload/ - Upload and process study materials
 
 GET /health - Health check endpoint
