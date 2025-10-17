@@ -116,6 +116,7 @@ Switch between different content types using tabs
 
  Project Structure
 text
+```
 ai-study-buddy/
 ├── backend/
 │   ├── main.py              # FastAPI server and AI processing
@@ -127,6 +128,7 @@ ai-study-buddy/
 │   ├── style.css           # Custom styles
 │   └── script.js           # Frontend logic and API calls
 └── README.md
+```
 🔧 API Endpoints
 POST /upload/ - Upload and process study materials
 
